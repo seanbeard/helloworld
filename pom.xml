@@ -6,7 +6,7 @@
   <artifactId>helloworld</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>Message Utility Java Sample App</name>
+  <name>Hello World Sample App</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
