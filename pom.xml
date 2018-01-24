@@ -3,10 +3,10 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>helloworld</artifactId>
+  <artifactId>ApiController</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>Hello World Sample App</name>
+  <name>ApiController Sample App</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

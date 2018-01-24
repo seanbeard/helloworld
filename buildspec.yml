@@ -1,11 +1,11 @@
 version: 0.2
-
+ 
 phases:
   build:
     commands:
-      - echo Build completed on `date`
+      - mvn clean
       - mvn install
 artifacts:
   files:
-    - '**/*'
-  base-directory: 'src'
+    - 'Dockerfile'
+    - 'target/example-1.0.0-SNAPSHOT.jar'
